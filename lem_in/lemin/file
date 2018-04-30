@@ -1,0 +1,64 @@
+10
+##start
+A 0 0
+B 1 4
+C 3 2
+D 4 0
+E 6 1
+F 5 4
+G 3 5
+H 3 7
+I 6 6
+J 1 9
+K 5 10
+l 8 8
+M 8 4
+N 10 6
+O 8 10
+P 2 14
+Q 8 15
+##end
+R 3 18
+A-B
+A-D
+D-C
+B-C
+D-E
+E-M
+C-F
+B-G
+F-G
+F-M
+F-I
+G-H
+B-J
+H-K
+H-I
+I-l
+M-l
+M-N
+N-l
+K-l
+J-K
+K-O
+J-P
+P-O
+P-Q
+Q-R
+O-l
+
+L1-B L2-D
+L1-J L2-C L3-B L4-D
+L1-P L3-J L4-E L5-B L6-D
+L1-Q L3-P L4-M L5-J L6-E L7-B L8-D
+L1-R L3-Q L4-l L5-P L6-M L7-J L8-E L9-B
+L3-R L4-O L5-Q L6-l L7-P L8-M L9-J L10-B
+L5-R L6-K L7-Q L8-l L9-P L10-J
+L2-B L7-R L9-Q L10-P
+L2-J L9-R L10-Q
+L2-P L6-J L8-K L10-R
+L2-Q L4-P L8-O
+L2-R L4-Q L6-P
+L4-R L6-Q L8-P
+L6-R L8-Q
+L8-R
