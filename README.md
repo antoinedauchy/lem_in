@@ -1,6 +1,6 @@
 # lem_in (run on IOS)
 
-To compile all the project, run Make in lem_in/lemin
+To compile all the project, run Make in lem_in/lemin  
 Usage : ./lem-in < [antfarm] | ./lemin_viewer/lemin_viewer
 
 # ant farm format
