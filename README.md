@@ -4,6 +4,8 @@ To compile all the project, run Make in lem_in/lemin
 
 Usage : ./lem-in < [antfarm] | ./lemin_viewer/lemin_viewer
 
+![alt text](https://github.com/antoinedauchy/lem_in/blob/master/ScreenShot%20lem_in.gif)
+
 # ant farm format
 [antfarm] is a file whith the following format:
 
